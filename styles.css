@@ -57,7 +57,7 @@ body {
   }
   
   button {
-    background-color: #4CAF50;
+    background-color: #2865ac;
     color: white;
     border: none;
     cursor: pointer;
@@ -65,7 +65,7 @@ body {
   }
   
   button:hover {
-    background-color: #45a049;
+    background-color: #457fa0;
   }
   
   fieldset {
